@@ -18,7 +18,7 @@ extern volatile double kP = 8.10;//10 worked, so half 5, .0040, 3300
 //extern volatile double kI = 0.00019;//.001 works good with kp 8, kd 4500 best kd?
 extern volatile double kI = 0.00099;
 //extern volatile double kI = 0;
-extern volatile int kD = 4500;//used to be 5000
+extern volatile int kD = 5000;//used to be 5000
 //extern volatile int kD = 0;
 volatile int error_buildup = 0;
 
@@ -133,7 +133,7 @@ void main() {
   volatile uint8_t adc_tunekD = adc_read(9);
   volatile uint16_t adc_tunekD_results;
 
-  setupUART();
+  //setupUART();
   _delay_ms(50);
   sei();
 
@@ -147,10 +147,10 @@ void main() {
         sonic_counter = 0;
         _delay_us(10);
       }
-      if (user_command_ready) {
-		    sendChar('B');
-		    handleInput();
-	    }
+      // if (user_command_ready) {
+		  //   sendChar('B');
+		  //   handleInput();
+	    // }
 
       //* Get sonic reading and apply pid_control function to servo angle *//
       trigger_sonic_sensor();
