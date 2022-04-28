@@ -1,0 +1,11 @@
+// ignore hex file created from compilation
+
+*.hex
+
+// ignore vs code setting
+
+*.vscode/
+
+// ignore mac stuff
+
+*.DS_Store
