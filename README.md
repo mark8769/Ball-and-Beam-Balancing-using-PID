@@ -39,13 +39,13 @@ Also not all boards are soldered the same, so when plugging in pots. you should 
 pin 6 on my board (adc channel 10), leds wouldnt work on it either, so I opted to not use it and opened up other pins.
 
 ## **Some Sources**
-https://srituhobby.com/what-is-a-pid-controller-and-how-does-it-work-with-an-arduino/ (original idea, website from linked youtube video)
-https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf
-https://ww1.microchip.com/downloads/en/DeviceDoc/Atmega32A-DataSheet-Complete-DS40002072A.pdf
-https://circuitdigest.com/microcontroller-projects/distance-measurement-using-hc-sr04-avr (HCSR04 help)
-https://www.youtube.com/watch?v=cvrNNf1FxJo (HCSR04 video walkthrough)
-https://www.electroschematics.com/hc-sr04-datasheet/ (HCSR04 Datasheet)
-https://www.es.co.th/schemetic/pdf/et-servo-s3003.pdf (futaba S3003 datasheet)
-https://extremeelectronics.co.in/avr-tutorials/servo-motor-control-by-using-avr-atmega32-microcontroller/ (futaba S3003 tutorial)
+1. https://srituhobby.com/what-is-a-pid-controller-and-how-does-it-work-with-an-arduino/ (original idea, website from linked youtube video)
+1. https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf
+1. https://ww1.microchip.com/downloads/en/DeviceDoc/Atmega32A-DataSheet-Complete-DS40002072A.pdf
+1. https://circuitdigest.com/microcontroller-projects/distance-measurement-using-hc-sr04-avr (HCSR04 help)
+1. https://www.youtube.com/watch?v=cvrNNf1FxJo (HCSR04 video walkthrough)
+1. https://www.electroschematics.com/hc-sr04-datasheet/ (HCSR04 Datasheet)
+1. https://www.es.co.th/schemetic/pdf/et-servo-s3003.pdf (futaba S3003 datasheet)
+1. https://extremeelectronics.co.in/avr-tutorials/servo-motor-control-by-using-avr-atmega32-microcontroller/ (futaba S3003 tutorial)
 
 
