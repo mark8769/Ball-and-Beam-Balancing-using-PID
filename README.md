@@ -1,5 +1,5 @@
 # **Demo**
-![](readmeResources/balancingBallDemo.gif)
+![](readmeResources/demo.gif)
 
 ## **Purpose**
 
