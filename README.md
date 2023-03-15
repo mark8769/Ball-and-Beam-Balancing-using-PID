@@ -1,3 +1,6 @@
+# **Demo**
+![](readmeResources/balancingBallDemo.gif)
+
 ## **Purpose**
 
 The purpose of this project is to be able to balance a ball in the middle of a beam.
