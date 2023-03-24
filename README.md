@@ -1,7 +1,7 @@
 # **Demo**
 ![](readmeResources/demo.gif)
 
-If you prefer sound! [Youtube Link](https://www.youtube.com/watch?v=hQyoTf7jqUQ](https://youtu.be/hQyoTf7jqUQ?t=20)
+If you prefer sound! [Youtube Link](https://youtu.be/hQyoTf7jqUQ?t=20)
 
 ## **Purpose**
 
