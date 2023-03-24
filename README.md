@@ -19,6 +19,8 @@ https://www.youtube.com/watch?v=YOPTksabdbM (original idea for project)
 
 ## **Contents**
 
+**Disclaimer** I was not familiar with Embedded systems besides Arduino in C++. There are a lot of comments that are unnecessary at the moment, but they helped me throughout the project. There might be some bad practices I did with C. I wasn't necessarily trying to learn the fundamentals but tried keeping files as separated as I could.
+
 1. HCSRO4.h and c file
 2. servo.h and c file
 3. gpio.h and c file
